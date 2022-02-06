@@ -6,7 +6,7 @@
  JSON doc example:
 </p> 
 <p align="left">
- <a href="https://www.mongodb.com/blog/post/getting-started-with-python-and-mongodb" target="_blank">
+ <a href="https://www.mongodb.com/blog/post/getting-started-with-python-and-mongodb">
   <img src="jsondoc.png" width="450" title="JSON doc" alt="JSON doc"> 
 </a>
 <br>
@@ -19,7 +19,7 @@
 Connect to MongoDB example:
 </p> 
 <p align="left">
-<a href="https://blog.devgenius.io/yaml-with-python-d6787a9bd8ab" target="_blank">
+<a href="https://blog.devgenius.io/yaml-with-python-d6787a9bd8ab">
 <img src="mconnect.png" width="450" title="Connect to MongoDB" alt="Connect to MongoDB"> 
 </a> 
 <br>
