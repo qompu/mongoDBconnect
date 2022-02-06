@@ -2,11 +2,13 @@
 <p align="left">
  REFERENCE:
 </p>
- <p align="left">
- JSON doc example:
- </p> 
 <p align="left">
+ JSON doc example:
+</p> 
+<p align="left">
+ <a href="https://www.mongodb.com/blog/post/getting-started-with-python-and-mongodb" target="_blank">
   <img src="jsondoc.png" width="450" title="JSON doc" alt="JSON doc"> 
+</a>
 <br>
  Source: Getting Started with Python and MongoDB | mongodb.com
 <br>
@@ -17,7 +19,9 @@
 Connect to MongoDB example:
 </p> 
 <p align="left">
+<a href="https://blog.devgenius.io/yaml-with-python-d6787a9bd8ab" target="_blank">
 <img src="mconnect.png" width="450" title="Connect to MongoDB" alt="Connect to MongoDB"> 
+</a> 
 <br>
  Source: YAML with Python | devgenius.io
 <br>
